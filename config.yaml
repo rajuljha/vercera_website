@@ -97,8 +97,8 @@ params:
   color:
     textColor: "#F5F5F5"
     secondaryTextColor: "#F5F5F5"
-    backgroundColor: "#380f2f" #"#0A0C37" #"#375971" #"#313552"
-    primaryColor: "#feff03" #"#F1E0AC" 
+    backgroundColor: "#0A0C37" #"#375971" #"#313552"
+    primaryColor: "#F1E0AC" 
     secondaryColor: "#375971" #"#0A0C37" #"#30475E"
 
   # # # # # # # # # # # # # # # # # # Blue Variant
