@@ -149,9 +149,9 @@ params:
     button:
       enable: true
       name: "Register now"
-      url: "#" #TODO : ADD google forms link
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" #TODO : ADD google forms link
       download: true
-      newPage: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -334,7 +334,7 @@ params:
         featuredLink:
           enable: true
           name: "Register now"
-          url: "https://example.com" # TODO : ADD GF link
+          url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
 
 
       - title: "Vercera Code-A-Thon"
@@ -355,7 +355,7 @@ params:
         featuredLink:
           enable: true
           name: "Register now"
-          url: "https://example.com" # TODO : ADD GF link
+          url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
 
 
       - title: "Vercera Ideathon contest"
@@ -373,13 +373,13 @@ params:
         featuredLink:
           enable: true
           name : "Register now"
-          url: "https://example.com" # TODO : ADD GF link
+          url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
 
       - title: "Technical Paper Presentation"
         school:
           name: "Venue - TPO."
           # url: "https://example.org"
-        date: "Timings - TBD"
+        date: "Timings - starts 10AM"
         # GPA: "4.2 out of 5.0"
         content: |-
           Submit a comprehensive review paper on any of the domains, and present it.
@@ -390,13 +390,13 @@ params:
         featuredLink:
           enable: true
           name : "Register now"
-          url: "https://example.com" # TODO : ADD GF link
+          url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
 
-      - title: "Circuit Designing competition"
+      - title: "PCB Designing competition"
         school:
           name: "Venue - AMURoboclub"
           # url: "https://example.org"
-        date: "Timings - TBD"
+        date: "Timings - 10AM - 1PM"
         # GPA: "4.2 out of 5.0"
         content: |-
           PCBs are hidden all around us in every single electronic device we see. Thus, many companies value the skill of designing of PCB very highly. This competition will test your proficiency and knowledge in designing PCBs.
@@ -406,7 +406,7 @@ params:
         featuredLink:
           enable: true
           name : "Register now"
-          url: "https://example.com" # TODO : ADD GF link
+          url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
 
       - title: "AI Art Battle"
         school:
@@ -422,7 +422,7 @@ params:
         featuredLink:
           enable: true
           name : "Register now"
-          url: "https://example.com" # TODO : ADD GF link
+          url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
 
   # Achievements
   achievements:
@@ -431,14 +431,14 @@ params:
     items:
       - title: Albert Tailors
         # content: I solved all problems with optimal solution.
-        url: https://example.com
+        # url: https://example.com
         image: /images/sponsors/tailor_demo.jpg
       - title: Coding Ninjas
         # content: Developed a product using Artificial Intelligence.
         image: /images/sponsors/coding_ninjas.png
       - title: Vikas Sweets
         # content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
+        # url: "https://github.com/gurusabarish/hugo-profile"
         image: /images/sponsors/vikas.jpg
       - title: Redbull
         # content: We are developed a product which can help others.
