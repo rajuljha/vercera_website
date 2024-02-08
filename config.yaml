@@ -519,9 +519,9 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
+      github: https://github.com/open-roboclub
       linkedin: https://www.linkedin.com/company/amuroboclub/
-      twitter: https://twitter.com
+      twitter: https://twitter.com/amu_roboclub
       instagram: https://www.instagram.com/amuroboclub/
       facebook: https://www.facebook.com/groups/amuroboclub
 
