@@ -506,9 +506,9 @@ params:
         # content: I solved all problems with optimal solution.
         # url: https://example.com
         image: /images/sponsors/albert_tailor.jpeg
-      - title: Coding Ninjas
-        # content: Developed a product using Artificial Intelligence.
-        image: /images/sponsors/coding_ninjas.png
+      # - title: Coding Ninjas
+      #   # content: Developed a product using Artificial Intelligence.
+      #   image: /images/sponsors/coding_ninjas.png
       # - title: Vikas Sweets
       #   # content: Developed a theme and getting 1K+ downloads per month.
       #   # url: "https://github.com/gurusabarish/hugo-profile"
