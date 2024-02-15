@@ -360,7 +360,7 @@ params:
         # GPA: "3.8 out of 5.0"
         content: |-
           
-          It is a 48-hour event where you will build a software based product to solve a given problem. The maximum team size is 4 for the competition. The product should solve a real world problem. Choose any one from the themes given below.
+          It is a 48-hour event where you will build a software based product to solve a given problem. The maximum team size is 3 for the competition. The product should solve a real world problem. Choose any one from the themes given below.
 
           1. Education Technology (EdTech)
           2. Healthcare
@@ -408,6 +408,40 @@ params:
           - Competition
           - Marketing Strategy
           - Product or Service Analysis
+        featuredLink:
+          enable: true
+          name : "Register now"
+          url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
+
+      - title: "Reel making competition"
+        school:
+          name: "Venue - Online"
+          # url: "https://example.org"
+        date: "Timings - 7pm onwards"
+        # GPA: "4.2 out of 5.0"
+        content: |-
+          Experience the enchanting blend of innovation and natural beauty at AMU Roboclub's Reel Making Competition. Set against the backdrop of the picturesque AMU campus and the esteemed ZHCET college, this competition invites participants to showcase their creativity through captivating reels.
+          - Craft captivating reels that showcase the intersection of technology and natural splendor.
+          - Capture the essence of innovation amidst the serene landscapes of AMU and ZHCET.
+          - Share your creations by tagging AMU Roboclub, fostering a sense of community and collaboration.
+          - Explore the boundless possibilities of reel making in this picturesque setting.
+        featuredLink:
+          enable: true
+          name : "Register now"
+          url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
+
+      - title: "Gaming Contest"
+        school:
+          name: "Venue - Main building"
+          # url: "https://example.org"
+        date: "Timings - 1.30 pm onwards"
+        # GPA: "4.2 out of 5.0"
+        # content: |-
+        #   A 2-round event that will test the technical and entrepreneurial abilities of the participants. The contestants must develop a viable and cost-effective solution on real world problems with presentations and pitch their ideas to judges. Maximum team size is 3, minimum 1. Judging criteria will be as follows:
+        #   - Market Analysis
+        #   - Competition
+        #   - Marketing Strategy
+        #   - Product or Service Analysis
         featuredLink:
           enable: true
           name : "Register now"
