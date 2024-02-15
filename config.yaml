@@ -179,7 +179,8 @@ params:
     intro: "Hi! Welcome to" #"Hi, my name is"
     title: "Vercera 2024."
     subtitle: "presented by AMURoboclub"
-    content: "Register for the event by clicking the link below."
+    content: "50% off on registration - Offer valid for 3 days "
+    # content: "Register for the event by clicking the link below."
     image: /images/logo.png
     bottomImage:
       enable: true
