@@ -163,7 +163,7 @@ params:
     disableSearch: false
     searchPlaceholder: "Ctrl+K to Search"
     stickyNavBar:
-      enable : true
+      enable : false
       showOnScrollUp : false
     menus:
       disableAbout: false
