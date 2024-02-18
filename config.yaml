@@ -164,7 +164,7 @@ params:
     searchPlaceholder: "Ctrl+K to Search"
     stickyNavBar:
       enable : true
-      showOnScrollUp : true
+      showOnScrollUp : false
     menus:
       disableAbout: false
       disableExperience: false
@@ -473,7 +473,7 @@ params:
         # GPA: "4.2 out of 5.0"
         content: |-
           PCBs are hidden all around us in every single electronic device we see. Thus, many companies value the skill of designing of PCB very highly. This competition will test your proficiency and knowledge in designing PCBs.
-          - Participant on can be done individually or in teams of 2.
+          - Participation can be done individually or in teams of 2.
           - The participants will be required to use given software and not any other alternative in designing PCBs.
           - The competition consists of 3 rounds, worth total 20 points each.
         featuredLink:
