@@ -237,8 +237,8 @@ params:
 
           - Treasure Hunt [2.30pm - 5.30pm].
           - Code-A-Thon [8pm - 10pm].
-          - AI Art BAttle [starts 7pm].
-          - Reel Competition [starts 7pm]
+          - AI Art BAttle [7pm - 11.30pm].
+          - Reel Competition [starts 1st March, 7pm - 4th March, 6pm]
 
       - job: "Saturday - 2nd March"
         company: "Day 2"
@@ -253,6 +253,7 @@ params:
           - Software Hackathon [starts 10am].
           - Ideathon [starts 10am].
           - Technical Paper Presentation [starts 10am].
+          - Hackathon mentor session at TPO [around 1pm]
 
 
       - job: "Sunday - 3rd March"
@@ -266,8 +267,7 @@ params:
         content: |-
 
           - PCB Designing Competition [10am - 1pm]
-          - Gaming [starts 1.30pm].
-          - Hackathon mentor session at TPO [around 1pm]
+          - Gaming [starts 11am].
 
 
       - job: "Monday - 4th March"
@@ -353,6 +353,23 @@ params:
     title: "Events"
     index: false
     items:
+
+      - title: "Treasure Hunt"
+        school:
+          name: "Venue - AMU Campus"
+          # url: "https://example.org"
+        date: "Timings - 2.30pm - 5.30pm"
+        # GPA: "3.8 out of 5.0"
+        content: |-
+          
+          An adventure game wherein you will hunt down the clues and find the lost city treasure using a given map. The event spans entire university area, but begins at AMU Roboclub. Estimated duration of the game is 2 hours.
+
+        featuredLink:
+          enable: true
+          name: "Register now"
+          url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
+
+
       - title: "Vercera Software Hackathon"
         school:
           name: "Venue - TPO"
@@ -374,7 +391,7 @@ params:
           enable: true
           name: "Register now"
           url: "https://docs.google.com/forms/d/e/1FAIpQLSebSpcQL5SEq2ct5hlT6TIHjCLIzNFHCQIrq52_2nVnr2lxuA/viewform?usp=sf_link" # TODO : ADD GF link
-
+      
 
       - title: "Vercera Code-A-Thon"
         school:
@@ -435,14 +452,14 @@ params:
         school:
           name: "Venue - Main building"
           # url: "https://example.org"
-        date: "Timings - 1.30 pm onwards"
+        date: "Timings - 11 am onwards"
         # GPA: "4.2 out of 5.0"
-        # content: |-
-        #   A 2-round event that will test the technical and entrepreneurial abilities of the participants. The contestants must develop a viable and cost-effective solution on real world problems with presentations and pitch their ideas to judges. Maximum team size is 3, minimum 1. Judging criteria will be as follows:
-        #   - Market Analysis
-        #   - Competition
-        #   - Marketing Strategy
-        #   - Product or Service Analysis
+        content: |-
+          - Step into the realm of virtual sports and martial arts mastery at our gaming event! Experience the thrill of FIFA 23, where you'll take the reins of your favorite football team using controllers provided by us. Feel the rush as you dribble, pass, and score your way to victory on our state-of-the-art gaming consoles.
+          - Meanwhile, unleash your fighting spirit in Tekken 8, where lightning-fast reflexes and devastating combos reign supreme. Engage in intense one-on-one battles on consoles provided by us, showcasing your martial arts skills in a quest for dominance.
+          - With all equipment provided, including controllers for FIFA 23 and consoles for Tekken 8, you can focus solely on honing your gaming prowess. And with a substantial cash prize pool of 3000 rs awaiting the champions, every match becomes a chance to carve your name into gaming history.
+          - Don't miss this opportunity to compete, connect, and conquer in the virtual arena. Grab your controller, power up your console, and get ready to unleash your gaming greatness! 🏆🎮
+
         featuredLink:
           enable: true
           name : "Register now"
@@ -485,7 +502,7 @@ params:
         school:
           name: "Venue - online"
           # url: "https://example.org"
-        date: "Timings - 7pm - 9pm"
+        date: "Timings - 7pm - 11.30pm"
         # GPA: "4.2 out of 5.0"
         content: |-
           A contest in which participants will compete to push the boundaries of creativity, merging technology and aesthetics, generating digital masterpieces.
