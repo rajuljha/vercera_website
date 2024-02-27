@@ -267,7 +267,7 @@ params:
         content: |-
 
           - PCB Designing Competition [10am - 1pm]
-          - Gaming [starts 11am].
+          - Gaming [10.30om - 3.30pm].
 
 
       - job: "Monday - 4th March"
@@ -452,7 +452,7 @@ params:
         school:
           name: "Venue - Main building"
           # url: "https://example.org"
-        date: "Timings - 11 am onwards"
+        date: "Timings - 10.30am - 3.30pm"
         # GPA: "4.2 out of 5.0"
         content: |-
           - Step into the realm of virtual sports and martial arts mastery at our gaming event! Experience the thrill of FIFA 23, where you'll take the reins of your favorite football team using controllers provided by us. Feel the rush as you dribble, pass, and score your way to victory on our state-of-the-art gaming consoles.
